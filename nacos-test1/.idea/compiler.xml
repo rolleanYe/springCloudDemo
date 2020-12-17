@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="nacos-spring-cloud-provider" />
+        <module name="nacos-test1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="nacos-spring-cloud-provider" target="1.8" />
+      <module name="nacos-test1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="nacos-spring-cloud-provider" options="-parameters" />
+      <module name="nacos-test1" options="-parameters" />
     </option>
   </component>
 </project>

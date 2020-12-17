@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-provider.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-test1.iml" filepath="$PROJECT_DIR$/nacos-test1.iml" />
     </modules>
   </component>
 </project>
