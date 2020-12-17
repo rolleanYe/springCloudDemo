@@ -21,8 +21,9 @@ public class Test1Controller implements Test1Facade {
     private String test;
 
     @Override
-    public String t1(User user) {
-        return user.toString();
+    public User t1(User user) {
+        user.setAge("9999");
+        return user;
     }
 
     @Override
